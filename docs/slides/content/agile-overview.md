@@ -53,6 +53,8 @@ February 2001: Snowbird Resort, Utah, United States
 
 
 
+
+
 ### 12 Principles of the Agile Manifesto
 * Our highest priority is to satisfy the customer through early and
 continuous delivery of valuable software.
@@ -72,6 +74,12 @@ continuous delivery of valuable software.
 * Simplicity--the art of maximizing the amount of work not done--is essential.
 * The best architectures, requirements, and designs emerge from self-organizing teams.
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+
+
+### Agile Product - Skateboard to Car
+
+###  <!-- .element: class="title-bottom-left" -->
+<!-- .slide: data-background-size="contain" data-background-image="images/agile/Skateboard-MVP.png", class="black-style" -->
 
 
 
