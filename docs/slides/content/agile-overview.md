@@ -78,8 +78,7 @@ continuous delivery of valuable software.
 
 ### Agile Product - Skateboard to Car
 
-###  <!-- .element: class="title-bottom-left" -->
-<!-- .slide: data-background-size="contain" data-background-image="images/agile/Skateboard-MVP.png", class="black-style" -->
+![Agile Product](images/agile/Skateboard-MVP.png)
 
 
 
