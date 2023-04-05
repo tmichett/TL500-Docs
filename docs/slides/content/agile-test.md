@@ -96,6 +96,9 @@ http://tastycupcakes.org/2010/01/pocket-sized-principles/ <!-- {.element: class=
 
 ## What are the Benefits of Agile?
 
+### Agile Product - Skateboard to Car
+
+![Agile Sample Product](images/agile/Skateboard-MVP.png)
 
 
 ### Increased Visibility
@@ -136,3 +139,8 @@ The agile approach can minimize risk by getting a working piece of software into
 <!-- .slide: data-background-image="images/book-background.jpeg", class="black-style"  data-background-opacity="0.3" -->
 ### DevOps Practices Used in This Section
 - [Agile Manifesto](https://agilemanifesto.org)
+
+
+
+
+
