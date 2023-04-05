@@ -121,6 +121,7 @@ The agile approach can minimize risk by getting a working piece of software into
 
 ### Agile Product - Skateboard to Car
 
+###  <!-- .element: class="title-bottom-left" -->
 <!-- .slide: data-background-size="contain" data-background-image="images/agile/images/agile/Skateboard-MVP.png", class="black-style" -->
 
 
