@@ -76,11 +76,6 @@ continuous delivery of valuable software.
 * At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 
-### Agile Product - Skateboard to Car
-
-![Agile Product](images/agile/Skateboard-MVP.png)
-
-
 
 ### Exercise - Pocket-sized Principles
 Working in teams
@@ -123,6 +118,10 @@ With the agile approach, business value can increase much sooner than with the t
 ### Minimized Risk
 The agile approach can minimize risk by getting a working piece of software into the user's hands faster, while allowing for fast updates based on user feedback. This ensures that customers are involved early in the process, while continuing to maintain a steady, incremental path toward the desired solution.
 
+
+### Agile Product - Skateboard to Car
+
+<!-- .slide: data-background-size="contain" data-background-image="images/agile/images/agile/Skateboard-MVP.png", class="black-style" -->
 
 
 #### Agile Product Ownership in a Nutshell
