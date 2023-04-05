@@ -119,7 +119,7 @@ With the agile approach, business value can increase much sooner than with the t
 The agile approach can minimize risk by getting a working piece of software into the user's hands faster, while allowing for fast updates based on user feedback. This ensures that customers are involved early in the process, while continuing to maintain a steady, incremental path toward the desired solution.
 
 
-### Agile Product - Skateboard to Car
+## Agile Product - Skateboard to Car
 
 ###  <!-- .element: class="title-bottom-left" -->
 <!-- .slide: data-background-size="contain" data-background-image="images/agile/images/agile/Skateboard-MVP.png", class="black-style" -->
