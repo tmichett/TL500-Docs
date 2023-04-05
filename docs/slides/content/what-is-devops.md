@@ -23,50 +23,6 @@ come to mind.
 ![devops-bingo](images/what-is-devops/devops-bingo.png)<!-- {.element: class="" style="height:450px"} -->
 
 
-
-<!--.slide: id="dev-ops" -->
-## DevOps Culture and Practice
-
-
-
-<div class="r-stack">
-  <div class="fragment fade-out" data-fragment-index="0" >
-    <p style="position: absolute; left:0; bottom: 0; width:100%; font-size:80%"> Happy customers - The ultimate goal of organizations</p>
-    <img src="images/what-is-devops/devops-story-1.jpg">
-  </div>
-  <div class="fragment fade-in-then-out" data-fragment-index="0" >
-    <p style="position: absolute; left:0; bottom: 0; width:95%; text-align: center; font-size:80%"> Profit - A common goal of every commercial organization</p>
-    <img src="images/what-is-devops/devops-story-2.jpg">
-  </div>
-  <div class="fragment fade-in-then-out" data-fragment-index="2" >
-    <p style="position: absolute; left:0; bottom: 0; width:95%; text-align: center; font-size:80%">Customers dreaming of the pot of gold</p>
-    <img src="images/what-is-devops/devops-story-3.jpg">
-  </div>
-  <div class="fragment fade-in-then-out" data-fragment-index="3" >
-    <p style="position: absolute; left:0; bottom: 0; width:95%; text-align: center; font-size:80%"> First Gap - Understanding and collecting customer requirements</p>
-    <img src="images/what-is-devops/devops-story-4.jpg">
-  </div>
-  <div class="fragment fade-in-then-out" data-fragment-index="4" >
-    <p style="position: absolute; left:0; bottom: 0; width:95%; text-align: center; font-size:80%">Using human-centered practices to understand customer needs</p>
-    <img src="images/what-is-devops/devops-story-5.jpg">
-  </div>
-  <div class="fragment fade-in-then-out" data-fragment-index="5" >
-    <p style="position: absolute; left:0; bottom: 0; width:95%; text-align: center; font-size:80%">Second Gap - Traditional deliverables with its drawbacks failed to achieve customer satisfaction</p>
-    <img src="images/what-is-devops/devops-story-6.jpg">
-  </div>
-  <div class="fragment fade-in-then-out" data-fragment-index="6" >
-    <p style="position: absolute; left:0; bottom: 0; width:95%; text-align: center; font-size:80%"> Implementation of DevOps practices leading to faster and better products</p>
-    <img src="images/what-is-devops/devops-story-7.jpg">
-  </div>
-  <div class="fragment fade-in-then-out" data-fragment-index="7" >
-    <p style="position: absolute; left:0; bottom: 0; width:95%; text-align: center; font-size:80%">Plugging the gaps in the software delivery process</p>
-    <img src="images/what-is-devops/devops-story-8.jpg">
-  </div>
-</div>
-
-
-
-
 ### The Three Ways of DevOps
 #### _The DevOps Handbook_
 #### by Gene Kim, et. al.
